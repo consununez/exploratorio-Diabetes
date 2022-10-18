@@ -8,6 +8,6 @@ Las variables predictoras incluyen el número de embarazos que ha tenido la paci
 # Objetivos
 
 Se busca:
-*realizar un análisis estadístico multivariado sobre diabetes.
-*construir un modelo que permita predecir si una mujer tiene diabetes en base a ciertas variables médicas.
-*construir un modelo que permita predecir si los pacientes del conjunto de datos tienen diabetes o no.
+- realizar un análisis estadístico multivariado sobre diabetes.
+- construir un modelo que permita predecir si una mujer tiene diabetes en base a ciertas variables médicas.
+- construir un modelo que permita predecir si los pacientes del conjunto de datos tienen diabetes o no.
